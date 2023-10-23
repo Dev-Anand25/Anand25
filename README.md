@@ -4,7 +4,6 @@
 <h1 align="center">Hi 👋 there, I'm Anandha Kumar J</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-anand25" alt="dev-anand25" /></a> </p>
 
 - 🌱 I’m currently learning **Java and python**
 
@@ -27,4 +26,11 @@
 <h3 align="center">Support:</h3>
 <p align="center" ><a href="https://ko-fi.com/anandhakumar250304"> <img  src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="anandhakumar250304" /></a></p><br><br>
 <br>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-anand25&" alt="dev-anand25" /></p>
+
+<h3 align="center">Github Stats:</h3>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Dev-Anand25&theme=dracula&hide_border=false&include_all_commits=true&count_private=false" alt="dev-anand25" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Anand25&theme=dracula&hide_border=false" alt="dev-anand25" /></p>
+<br/>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Anand25&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="dev-anand25" /></p>
