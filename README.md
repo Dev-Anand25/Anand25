@@ -1,8 +1,7 @@
 
 [![MasterHead](1.gif)](https://dev-anand25.github.io/portfolio/)
 
-<h1 align="center">Hi 👋 there, I'm Anandha Kumar J</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=23&pause=500&color=F7F7F7&center=true&vCenter=true&random=false&width=1200&lines=Hi+there%2C+I'm+Anandha+Kumar)](https://git.io/typing-svg)
 
 
 - 🌱 I’m currently learning **Java and python**
