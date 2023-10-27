@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Java and python**
 
-- 👨‍💻 All of my projects are available at [https://dev-anand25.github.io/portfolio/](https://dev-anand25.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://dev-anand25.github.io/portfolio/)
 
 - 💬 Ask me about **Css and other frontend stuffs**
 
