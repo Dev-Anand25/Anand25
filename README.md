@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=23&pause=500&color=F7F7F7&center=true&vCenter=true&random=false&width=1200&lines=Hi+there%2C+I'm+Anandha+Kumar)](https://git.io/typing-svg)
 
 
-- 🌱 I’m currently learning **Java and python**
+- 🌱 I’m currently learning **Java and Nodejs**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://dev-anand25.github.io/portfolio/)
 
@@ -15,9 +15,9 @@
 <h2 align="center">Connect with me:</h2>
 <br>
 <p align="center">
-<a href="https://twitter.com/anandhakumarj25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anandhakumarj25" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anandhakumar250304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anandhakumar250304" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ponsanand250304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ponsanand250304" height="30" width="40" /></a>
+<a href="https://twitter.com/anandhakumarj25" target="blank" margin-right="20px"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anandhakumarj25" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anandhakumar250304" target="blank" margin-right="20px"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anandhakumar250304" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ponsanand250304" target="blank" margin-right="20px"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ponsanand250304" height="30" width="40" /></a>
 </p>
 <br>
 <h2 align="center">Languages and Tools:</h2>
