@@ -26,8 +26,6 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Dev-Anand25&theme=dracula&hide_border=false&include_all_commits=true&count_private=false" alt="dev-anand25" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Anand25&theme=dracula&hide_border=false" alt="dev-anand25" /></p>
-<br/>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Anand25&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="dev-anand25" /></p>
 
 
 <h2 align="center">My holopin badges:</h2>
