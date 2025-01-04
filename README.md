@@ -1,16 +1,8 @@
-
-[![MasterHead](1.gif)](https://dev-anand25.github.io/portfolio/)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=23&pause=500&color=F7F7F7&center=true&vCenter=true&random=false&width=1200&lines=Hi+there%2C+I'm+Anandha+Kumar)](https://git.io/typing-svg)
-
+# Hi I'm Anandha Kumar J
 
 - 🌱 I’m currently learning **Java and Nodejs**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://dev-anand25.github.io/portfolio/)
-
-- 💬 Ask me about **Css and other frontend stuffs**
-
-- 📫 How to reach me **ponsanand250304@gmail.com**
+- 📫 How to reach me **anandhakumar.work@gmail.com**
 <br>
 <h2 align="center">Connect with me:</h2>
 <br>
